@@ -1,0 +1,2 @@
+s = 'lucky'
+print(s)
